@@ -24,6 +24,8 @@ Um formulário web responsivo para cadastro de veículos em uma loja de carros.
 - HTML5
 - CSS3
 - JavaScript Vanilla
+- Responsividade (Mobile First)
+- LocalStorage para persistência de dados
 
 ## Como Usar
 
